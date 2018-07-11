@@ -30,7 +30,12 @@ Functional
 Non Functional
 
 ● Security
+
 ● Performance Requirements
+
 ● User Interfaces
+
 ● Reliability
+
 ● AvailabilityMobile ApplicationLoginHomeSell CardsSell ReloadsView Stock
+
