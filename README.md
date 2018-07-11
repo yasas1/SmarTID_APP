@@ -2,6 +2,7 @@
 Sales and Smart Distributing App for Field Sales Executive from a Airtel Agent in Kurunegala
 
 Smart Distribution System For a Telecommunication Agency
+
 ◎ This project is an Automate distribution system for a Telecommunication agency. (For a regional agent of Airtel)
 
 ◎ Main facilities of this system includes,
@@ -17,6 +18,7 @@ Smart Distribution System For a Telecommunication Agency
 Mobile App Requirements
 
 Functional
+
     ● Sell Cards and Reloads
     
     ● Check damage cards
