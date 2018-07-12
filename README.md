@@ -1,9 +1,9 @@
 # SmarTID_APP
-Sales and Smart Distributing App for Field Sales Executive from a Airtel Agent in Kurunegala
+Sales and Smart Distributing App for Field Sales Executive in a Telecommunication Agency
 
 Smart Distribution System For a Telecommunication Agency
 
-◎ This project is an Automate distribution system for a Telecommunication agency. (For a regional agent of Airtel)
+◎ This project is an Automate distribution system for a Telecommunication agency. 
 
 ◎ Main facilities of this system includes,
 
