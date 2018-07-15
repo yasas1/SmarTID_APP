@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="login">LOGIN</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+    <string name="shopname">ShopName</string>
+    <string name="text1">text1</string>
+    <string name="text2">text2</string>
+</resources>
