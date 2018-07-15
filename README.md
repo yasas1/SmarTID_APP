@@ -19,9 +19,11 @@ Mobile App Requirements
 
 Functional
 
-    ● Sell Cards and Reloads
+    * Sell Cards with discount price and getting serial numbers to give
     
-    ● Check damage cards
+    * Sell Reloads with discount price
+    
+    * Check damage cards that was sold by this agent
     
     * View FSE's Card Stock
     
