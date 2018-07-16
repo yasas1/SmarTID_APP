@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">ViewStock</string>
-    <string name="rs_20">Rs.20</string>
-    <string name="rs_50">Rs.50</string>
-    <string name="rs_100">Rs.100</string>
-    <string name="rs_500">Rs.500</string>
-    <string name="rs_1000">Rs.1000</string>
-    <string name="reload_amount">Reload Amount</string>
-</resources>
