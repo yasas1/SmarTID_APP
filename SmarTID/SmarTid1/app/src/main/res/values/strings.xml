@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SmarTid1</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="_20">20</string>
+    <string name="_50">50</string>
+    <string name="get">GET</string>
+    <string name="q1000">q1000</string>
+    <string name="q500">q500</string>
+    <string name="_100">100</string>
+    <string name="_500">500</string>
+    <string name="_1000">1000</string>
+    <string name="q20">q20</string>
+    <string name="q50">q50</string>
+    <string name="q100">q100</string>
+    <string name="_123455647">123455647</string>
+    <string name="_1987870">1987870</string>
+
+    <string name="c20">20</string>
+
+    <string name="c100">100</string>
+
+    <string name="c1000">1000</string>
+    <string name="c50">50</string>
+    <string name="c500">500</string>
+
+
+    <string name="end">end</string>
+    <string name="start20">start20</string>
+    <string name="start50">start50</string>
+    <string name="start100">start100</string>
+    <string name="start500">start500</string>
+    <string name="start1000">start1000</string>
+    <string name="get_price">Get Price</string>
+    <string name="cards">Cards</string>
+    <string name="reset">Reset</string>
+    <string name="sell">SELL</string>
+
+
+    <string name="sale_card">Sale Card</string>
+    <string name="sale_reload">Sale Reload</string>
+    <string name="card">Card</string>
+    <string name="reload">Reload</string>
+    <string name="transfer">Transfer</string>
+    <string name="enterammount">EnterAmmount</string>
+</resources>
