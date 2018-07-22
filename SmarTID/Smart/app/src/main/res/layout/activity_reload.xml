@@ -1,0 +1,87 @@
+<android.support.percent.PercentRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.prabashdananjaya.smart.ReloadActivity">
+
+    <LinearLayout
+        android:id="@+id/layout_ex_bal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp"
+        app:layout_heightPercent="15%">
+
+        <TextView
+            android:id="@+id/exist_bal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center|start|start"
+            android:text="@string/existing_balance" />
+
+        <TextView
+            android:id="@+id/tvex"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center|start|start" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_amount"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        app:layout_heightPercent="15%"
+        android:layout_below="@+id/layout_ex_bal">
+
+        <TextView
+            android:id="@+id/transf_amt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center|start|start"
+            android:text="@string/amount" />
+
+        <EditText
+            android:id="@+id/etamnt"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="@string/reloadamount"
+            android:inputType="number" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btntran"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="1"
+        android:background="@drawable/my_button"
+        android:layout_marginBottom="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:onClick="onButtonTran"
+        android:text="@string/Prcd"
+        app:layout_heightPercent="15%" />
+
+    <TextView
+        android:id="@+id/tshopname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btntran"
+        android:layout_alignStart="@+id/btntran"
+        android:layout_marginBottom="103dp"
+        android:layout_marginStart="61dp"
+        android:text="@string/textshop" />
+
+
+</android.support.percent.PercentRelativeLayout>
