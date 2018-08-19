@@ -1,9 +1,7 @@
 # SmarTID_APP
-Sales and Smart Distributing App for Field Sales Executive in a Telecommunication Agency
-
 Smart Distribution System For a Telecommunication Agency
 
-◎ This project is an Automate distribution system for a Telecommunication agency. 
+This project is an Automate distribution system for a Telecommunication agency. 
 
 ◎ Main facilities of this system includes,
 
